@@ -1,0 +1,74 @@
+html, body {
+    height: 0%; 
+    background-color: #dd3f69; 
+  }
+
+  .container {
+    background-color: #ecb5b5;
+    padding: 20px;
+    margin-top: 20px; 
+    border-radius: 8px; 
+    min-height: 0vh; 
+    
+  }
+  .elementos {
+  position: absolute;
+  width: 340px; 
+  height: 300px;
+  background-size: cover; 
+  
+}
+
+.regalito-derecho {
+  right: 10px; 
+  background-image: url('img/regalitos.png');
+  top: 23%;
+  
+}
+
+.pelotita-izquierda {
+  left: 2px; 
+  background-image: url('img/pelotitarosa.png');
+  top: 25%;
+  
+}
+.subtitulo {
+    text-align: center;
+
+}
+nav  {
+
+margin-top: 50px;
+text-align: center;  
+}
+
+nav li {
+    display: inline-block;
+}
+nav a {
+    color: rgb(255, 0, 106);
+    padding: 60px;
+    display: inline-block;
+}
+
+nav a:hover {
+    color: rgb(5, 62, 146);
+}
+
+article{ 
+background-color: #e2d3d6;
+padding: 5px;
+margin: 5px;
+}
+
+img {
+width: 50%; 
+height: 450x;
+}
+
+.flecha{
+width: 50px; 
+height: auto;
+}
+
+
